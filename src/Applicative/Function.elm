@@ -1,6 +1,13 @@
 module Applicative.Function exposing (..)
 
 {-| Instances of Functor and Applicative for functions.
+
+#Functor
+@docs fmap, (<$>), (<$), ($>)
+
+#Applicative
+@docs pure, apply, (<*>), (<*), (*>), (<**>), liftA, liftA2, liftA2, liftA3
+
 -}
 
 -- Functor
