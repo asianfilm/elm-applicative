@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Instances of Functor and Applicative for common types",
-  "repository": "https://github.com/m00qek/elm-cpf.git",
+  "repository": "https://github.com/m00qek/elm-applicative.git",
   "license": "BSD3",
   "source-directories": [
     "src/"
